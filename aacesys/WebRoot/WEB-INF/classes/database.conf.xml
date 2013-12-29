@@ -1,0 +1,8 @@
+<database-conf>
+<datasource>
+	<driver>com.mysql.jdbc.Driver</driver>
+	<url>jdbc:mysql://localhost:3306/aacesys?useUnicode=true&amp;characterEncoding=gb2312</url>
+	<user>root</user>
+	<password>jwz2011</password>
+</datasource>
+</database-conf>
